@@ -11,7 +11,3 @@ def solution(inputArray):
             maior = product
         product = 0
     return(maior)
-
-teste = [-23, 4, -3, 8, -12]
-
-print(solution(teste))
